@@ -8,3 +8,5 @@ vless://fda89998-7e9a-4494-857a-cd0d00661b58@uk1.connectsuite.org:443?type=ws&en
 vless://dd38a195-d721-4f24-b20d-f56aaf52333f@fr.connfull.org:8443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1#fr.connfull.org-racevpn-tdqfzt
 vless://6e7fc517-1f6b-4b6d-880d-f2f86e6a9b09@ca.connfull.org:9443?type=ws&encryption=none&path=%2Fstream&host=ca.connfull.org&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1#ca.connfull.org-racevpn-iyv9eu
 vless://ca810828-3ee0-4ea8-9d99-01fe846a87d3@ca.connfull.org:7443?type=grpc&encryption=none&serviceName=grpc&authority=ca.connfull.org&mode=gun&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1#ca.connfull.org-racevpn-tfls91
+vless://6fa03d3a-fcfe-5c11-bce9-508606483ab2@fi1.vlnet.site:80?encryption=none&security=none&type=ws&host=fi1.vlnet.site&path=%2Fvless#CyberTunnel.org-shafgasd-ws
+vless://07fef09f-1b3c-5f15-9641-7ddde3a9d43d@nl1.vlnet.site:2087?encryption=none&security=tls&sni=nl1.vlnet.site&type=httpupgrade&host=nl1.vlnet.site&path=%2Fhttpupgrade#greenssh.com-hsdgau-httpupgrade
