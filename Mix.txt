@@ -10,3 +10,4 @@ vless://6e7fc517-1f6b-4b6d-880d-f2f86e6a9b09@ca.connfull.org:9443?type=ws&encryp
 vless://ca810828-3ee0-4ea8-9d99-01fe846a87d3@ca.connfull.org:7443?type=grpc&encryption=none&serviceName=grpc&authority=ca.connfull.org&mode=gun&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1#ca.connfull.org-racevpn-tfls91
 vless://6fa03d3a-fcfe-5c11-bce9-508606483ab2@fi1.vlnet.site:80?encryption=none&security=none&type=ws&host=fi1.vlnet.site&path=%2Fvless#CyberTunnel.org-shafgasd-ws
 vless://07fef09f-1b3c-5f15-9641-7ddde3a9d43d@nl1.vlnet.site:2087?encryption=none&security=tls&sni=nl1.vlnet.site&type=httpupgrade&host=nl1.vlnet.site&path=%2Fhttpupgrade#greenssh.com-hsdgau-httpupgrade
+vless://14c186e5-e344-594a-9319-6ffef0f64db8@fi1.vlnet.site:2087?encryption=none&security=tls&sni=fi1.vlnet.site&type=httpupgrade&host=fi1.vlnet.site&path=%2Fhttpupgrade#CyberTunnel.org-sadhky-httpupgrade
