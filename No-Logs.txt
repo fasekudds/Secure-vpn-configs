@@ -2,3 +2,4 @@ vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?alpn=
 vless://f6004389-d0bd-5a25-9bea-d3bac1ccda07@us1.vlnet.site:80?encryption=none&security=none&type=ws&host=us1.vlnet.site&path=%2Fvless#greenssh.com-usernam-ws
 vless://11406038-79da-5285-81f1-5713e3e1237d@fr1.vlnet.site:2087?encryption=none&security=tls&sni=fr1.vlnet.site&type=httpupgrade&host=fr1.vlnet.site&path=%2Fhttpupgrade#greenssh.com-bugs-httpupgrade
 vless://7832af5c-7036-4e2d-a22e-a11abebfe6af@node-ca.connectsuite.org:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=&type=tcp#node-ca.connectsuite.org-qr06n3k8lg
+vless://0de51815-ec94-52bd-acab-70be30408d23@google.com:80?encryption=none&security=none&type=ws&host=us1.vlnet.site&path=%2Fvless#CyberTunnel.org-sdguaigds-ws
