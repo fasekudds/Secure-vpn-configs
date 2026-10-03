@@ -1,2 +1,2 @@
 vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=&type=tcp#node-uk.connectsuite.org-rkrjuf6il1
-vless://ca810828-3ee0-4ea8-9d99-01fe846a87d3@ca.connfull.org:7443?type=grpc&encryption=none&serviceName=grpc&authority=ca.connfull.org&mode=gun&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1#ca.connfull.org-racevpn-tfls91
+vless://fda89998-7e9a-4494-857a-cd0d00661b58@uk1.connectsuite.org:443?type=ws&encryption=none&security=tls&path=%2fcdn-cgi%2fws#vless-ws-tls
